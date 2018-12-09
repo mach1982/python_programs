@@ -1,0 +1,60 @@
+Name Ashley Roberts
+Positive 25
+Negative 48
+Neutral 27
+Name Charles Venn
+Positive 9
+Negative 32
+Neutral 23
+Name Danny John-Jules
+Positive 20
+Negative 66
+Neutral 14
+Name Faye Tozer
+Positive 56
+Negative 34
+Neutral 10
+Name Graeme Swann
+Positive 58
+Negative 22
+Neutral 20
+Name Joe Sugg
+Positive 55
+Negative 41
+Neutral 4
+Name Kate Silverton
+Positive 20
+Negative 62
+Neutral 10
+Name Katie Piper
+Positive 53
+Negative 44
+Neutral 3
+Name Lauren Steadman 
+Positive 17
+Negative 26
+Neutral 12
+Name Lee Ryan
+Positive 19
+Negative 55
+Neutral 23
+Name Dr. Ranj Singh
+Positive 77
+Negative 17
+Neutral 6
+Name Seann Walsh
+Positive 30
+Negative 20
+Neutral 16
+Name Stacey Dooley
+Positive 31
+Negative 55
+Neutral 14
+Name Susannah Constantine
+Positive 19
+Negative 68
+Neutral 13
+Name Vick Hope
+Positive 45
+Negative 42
+Neutral 13

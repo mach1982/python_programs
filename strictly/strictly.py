@@ -14,7 +14,7 @@ import tweepy
 consumer_key = 'YOUR CONSUMER KEY'
 consumer_secret = 'YOUR SECERT KEY'
 access_token = 'YOUR ACCESS TOKEN '
-accces_secert = 'YOUR ACCCES SEERTT'
+accces_secert = 'YOUR ACCCES SERECT'
 
 #Authenticate with twitter
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
